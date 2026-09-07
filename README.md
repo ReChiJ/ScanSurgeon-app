@@ -10,6 +10,15 @@ even volume differences between overlaid scans — and export everything as alig
 data, or a clean PDF report with histograms and trend charts across scan series. All processing
 happens locally on your machine, so your scan data never leaves your computer.
 
+## Intended use
+
+> Local desktop software for the technical preparation, visualisation, measurement and
+> comparative analysis of three-dimensional surface models. Intended for research, teaching,
+> presentation, workflow evaluation and technical quality control. Not intended for
+> diagnosis, treatment decisions or treatment planning.
+
+**ScanSurgeon is not a medical device.**
+
 ## Download
 
 | Platform | Download |
@@ -29,4 +38,4 @@ The app is not code-signed, so the operating system asks for confirmation the fi
 
 ## Language
 
-The interface is available in **English and German** (toggle in the top-right corner).
+The interface is available in **English, German and Chinese (Simplified)** (toggle in the top-right corner).
