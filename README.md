@@ -24,10 +24,11 @@ happens locally on your machine, so your scan data never leaves your computer.
 | Platform | Download |
 |----------|----------|
 | **macOS** (Apple Silicon + Intel) | [ScanSurgeon.dmg](https://github.com/ReChiJ/ScanSurgeon-app/releases/latest/download/ScanSurgeon.dmg) |
-| **Windows** — Installer | [ScanSurgeon-Setup.exe](https://github.com/ReChiJ/ScanSurgeon-app/releases/latest/download/ScanSurgeon-Setup.exe) |
-| **Windows** — Portable | [ScanSurgeon-Portable.exe](https://github.com/ReChiJ/ScanSurgeon-app/releases/latest/download/ScanSurgeon-Portable.exe) |
+| **Windows** | [ScanSurgeon-Setup.exe](https://github.com/ReChiJ/ScanSurgeon-app/releases/latest/download/ScanSurgeon-Setup.exe) |
 
-These links always point to the newest release. See [all releases](https://github.com/ReChiJ/ScanSurgeon-app/releases).
+These links always point to the newest release. Website: [www.scansurgeon.com](https://www.scansurgeon.com) · Support: support@scansurgeon.com
+
+This repository only hosts the release downloads; the source code is not published.
 
 ## First launch (unsigned app)
 
